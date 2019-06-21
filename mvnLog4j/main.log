@@ -1,0 +1,55 @@
+04/93/19 03 10:28 [main] DEBUG (Product.java:16) - This is Debug Message..
+04/93/19 03 10:28 [main] INFO  (Product.java:17) - This is infoo Message..
+04/93/19 03 10:28 [main] WARN  (Product.java:18) - This is warn   Message..
+04/93/19 03 10:28 [main] ERROR (Product.java:19) - This is Error Message..
+04/93/19 03 10:28 [main] FATAL (Product.java:20) - This is Fetal Message..
+04/93/19 03 10:35 [main] DEBUG (Product.java:18) - This is Debug Message..
+04/93/19 03 10:35 [main] INFO  (Product.java:19) - This is infoo Message..
+04/93/19 03 10:35 [main] WARN  (Product.java:20) - This is warn   Message..
+04/93/19 03 10:35 [main] ERROR (Product.java:21) - This is Error Message..
+04/93/19 03 10:35 [main] FATAL (Product.java:22) - This is Fetal Message..
+04/93/19 03 10:39 [main] WARN  (Product.java:22) - Properties file not foundjava.io.FileNotFoundException: log4j.properties (The system cannot find the file specified)
+04/93/19 03 10:39 [main] DEBUG (Product.java:31) - This is Debug Message..
+04/93/19 03 10:39 [main] INFO  (Product.java:32) - This is infoo Message..
+04/93/19 03 10:39 [main] WARN  (Product.java:33) - This is warn   Message..
+04/93/19 03 10:39 [main] ERROR (Product.java:34) - This is Error Message..
+04/93/19 03 10:39 [main] FATAL (Product.java:35) - This is Fetal Message..
+04/93/19 03 10:42 [main] DEBUG (Product.java:32) - This is Debug Message..
+04/93/19 03 10:42 [main] INFO  (Product.java:33) - This is infoo Message..
+04/93/19 03 10:42 [main] WARN  (Product.java:34) - This is warn   Message..
+04/93/19 03 10:42 [main] ERROR (Product.java:35) - This is Error Message..
+04/93/19 03 10:42 [main] FATAL (Product.java:36) - This is Fetal Message..
+04/93/19 03 10:43 [main] WARN  (Product.java:22) - Properties file not foundjava.io.FileNotFoundException: log4j.properties (The system cannot find the file specified)
+04/93/19 03 10:43 [main] DEBUG (Product.java:32) - This is Debug Message..
+04/93/19 03 10:43 [main] INFO  (Product.java:33) - This is infoo Message..
+04/93/19 03 10:43 [main] WARN  (Product.java:34) - This is warn   Message..
+04/93/19 03 10:43 [main] ERROR (Product.java:35) - This is Error Message..
+04/93/19 03 10:43 [main] FATAL (Product.java:36) - This is Fetal Message..
+04/93/19 03 10:45 [main] WARN  (Product.java:25) - Properties file not foundjava.io.FileNotFoundException: log4j.properties (The system cannot find the file specified)
+04/93/19 03 10:45 [main] DEBUG (Product.java:35) - This is Debug Message..
+04/93/19 03 10:45 [main] INFO  (Product.java:36) - This is infoo Message..
+04/93/19 03 10:45 [main] WARN  (Product.java:37) - This is warn   Message..
+04/93/19 03 10:45 [main] ERROR (Product.java:38) - This is Error Message..
+04/93/19 03 10:45 [main] FATAL (Product.java:39) - This is Fetal Message..
+04/93/19 03 10:46 [main] DEBUG (Product.java:35) - This is Debug Message..
+04/93/19 03 10:46 [main] INFO  (Product.java:36) - This is infoo Message..
+04/93/19 03 10:46 [main] WARN  (Product.java:37) - This is warn   Message..
+04/93/19 03 10:46 [main] ERROR (Product.java:38) - This is Error Message..
+04/93/19 03 10:46 [main] FATAL (Product.java:39) - This is Fetal Message..
+06/170/19 19 03:27 [main] DEBUG (Product.java:35) - This is Debug Message..
+06/170/19 19 03:27 [main] INFO  (Product.java:36) - This is infoo Message..
+06/170/19 19 03:27 [main] WARN  (Product.java:37) - This is warn   Message..
+06/170/19 19 03:27 [main] ERROR (Product.java:38) - This is Error Message..
+06/170/19 19 03:27 [main] FATAL (Product.java:39) - This is Fetal Message..
+DEBUG - This is Debug Message..
+INFO - This is infoo Message..
+WARN - This is warn   Message..
+ERROR - This is Error Message..
+FATAL - This is Fetal Message..
+06/170/19 19 04:10 [main] INFO  (Product.java:40) - info Message...
+06/170/19 19 04:10 [main] DEBUG (Product.java:43) - This is Debug Message..
+06/170/19 19 04:10 [main] INFO  (Product.java:44) - This is infoo Message..
+06/170/19 19 04:10 [main] WARN  (Product.java:45) - This is warn   Message..
+06/170/19 19 04:10 [main] ERROR (Product.java:46) - This is Error Message..
+06/170/19 19 04:10 [main] FATAL (Product.java:47) - This is Fetal Message..
+06/170/19 19 04:11 [main] INFO  (Product.java:40) - info Message...
